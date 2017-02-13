@@ -15,8 +15,7 @@
 /*homepage styles*/
 
 .home-page {
-	background: red;
-	/*url("img/taxi-photo.jpg") no-repeat scroll left center / cover rgba(0, 0, 0, 0);*/*/
+	background:url("img/taxi-photo.jpg") no-repeat scroll left center / cover rgba(0, 0, 0, 0);
 }
    
 }
