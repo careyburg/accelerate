@@ -832,6 +832,24 @@ input::-webkit-input-placeholder {
 	color: #a6a6a6;
 }
 
+/* Case Study Page */
+
+aside.case-study-sidebar{
+	float:left;
+	width:300px;
+}
+
+.case-study-images {
+	float:left;
+	width: 606px;
+}
+
+.case-study-images img{
+	display: block;
+	margin-bottom: 50px;
+	border: 1px solid #dddddd;
+}
+
 /* Individual Post */
 .individual-post {
 	border-bottom: 0;
