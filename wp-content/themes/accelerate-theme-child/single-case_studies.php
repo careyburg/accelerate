@@ -50,7 +50,8 @@ get_header(); ?>
               if($image_3) {  
                 echo wp_get_attachment_image( $image_3, $size );
              } 
-?>
+			
+			?>
 
 			</div>
 			
@@ -60,10 +61,3 @@ get_header(); ?>
 	</div><!-- #primary -->
 
 <?php get_footer(); ?>
-
-
-<div class="case-study-images">
-
-
-
-</div>
